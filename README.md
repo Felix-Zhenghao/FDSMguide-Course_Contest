@@ -1,6 +1,7 @@
 # FDSM-COURSE&COMPETITION-GUIDE
 复旦管院课程指南、比赛经验一览。  
-官方邮箱：fdsm_courseguide@163.com
+官方邮箱：fdsm_courseguide@163.com  
+课程命名规范：《课程名-教师名》。例：《统计软件-黄达》
 
 ## 写在最前面，极其重要：
 <u> **当上传非公开的、不来源于自己的劳动成果时，务必争得他人同意！！** </u>  
