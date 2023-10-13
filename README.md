@@ -13,8 +13,7 @@
 **特别欢迎老师上传课程相关资料，包括您认为如何学好这门课、课程汇报的优秀案例等等，或者上传教学理念、学生评价、大纲等内容供选课参考**
 
 ## 如何贡献
-**贡献方式图文教程如下：**  
-[如何贡献本项目](https://ndro4zkb6p.feishu.cn/docx/FXkgd6OyOoUXK1xn57Pccx0Vn4b?from=from_copylink)
+**贡献方式图文教程：**  [如何贡献本项目](https://ndro4zkb6p.feishu.cn/docx/FXkgd6OyOoUXK1xn57Pccx0Vn4b?from=from_copylink)
 
 **熟悉Github者直接参照如下流程：**
 + 首先Fork本项目，点击右上角的Fork按键即可。  
