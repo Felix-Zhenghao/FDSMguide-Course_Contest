@@ -1,4 +1,4 @@
-# FDSM-COURSE-COMPETITION
+# FDSM-COURSE&COMPETITION-GUIDE
 复旦管院课程指南、比赛经验一览。  
 官方邮箱：fdsm_courseguide@163.com
 
