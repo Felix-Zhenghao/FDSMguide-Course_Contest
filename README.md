@@ -1,6 +1,6 @@
 # FDSMguide-Course_Competition
 <div align="center">
-  <img src="https://i.postimg.cc/DZsKj6tD/fdsm-guide-logo.png" width="" />
+  <img src="https://i.postimg.cc/DZsKj6tD/fdsm-guide-logo.png" width="200" />
 </div>  
 
 [**如何贡献本项目**](https://ndro4zkb6p.feishu.cn/docx/FXkgd6OyOoUXK1xn57Pccx0Vn4b?from=from_copylink)  
