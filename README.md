@@ -16,7 +16,9 @@ TO DO: 文件添加和命名规范（有些资料各平行班通用，有些资�
 ## 写给老师们
 **特别欢迎老师上传课程相关资料，包括您认为如何学好这门课、课程汇报的优秀案例等等。或者上传教学理念、学生评价、大纲供选课参考** 。
   
-老师贡献项目务必在课程下**第一级**目录处添加《授课老师xxx说》文件夹，可在其中创建markdown文件书写文字，也可上传其他类型文件。  
+老师贡献项目务必在课程下**第一级**目录处添加《授课老师xxx说》文件夹/文件，可在其中创建markdown文件书写文字，也可上传其他类型文件。 
+
+[其他文件/文件夹命名规范](https://ndro4zkb6p.feishu.cn/docx/HKoKdBDyKow62AxO48qc5bOWnHM?contentTheme=DARK&theme=DARK#part-YbmzdmFucoS4IrxLcivcG8Ktndf)  
   
 若嫌麻烦，也可发将内容送至邮箱：fdsm_courseguide@163.com
 
