@@ -1,4 +1,4 @@
-# FDSMguide-COURSE_COMPETITION
+# FDSMguide-Course_Competition
 TO DO: 贡献清楚一个课程；**学会如何用Git在线管理文件目录**
 
 **复旦管院课程指南、比赛经验一览。致力于让每个管院学子的学习、备赛都更高效、更公平。**  
