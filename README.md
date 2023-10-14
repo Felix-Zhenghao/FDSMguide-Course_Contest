@@ -1,9 +1,10 @@
 # FDSM-COURSE&COMPETITION-GUIDE
 TO DO: 贡献清楚一个课程；**学会如何用Git在线管理文件目录**
 
-复旦管院课程指南、比赛经验一览。致力于让每个管院学子的学习、备赛都更高效、更公平。  
-官方邮箱：fdsm_courseguide@163.com  
-课程命名规范：《课程名-教师名》。例：《统计软件-黄达》
+**复旦管院课程指南、比赛经验一览。致力于让每个管院学子的学习、备赛都更高效、更公平。**  
+**官方邮箱：** fdsm_courseguide@163.com  
+**课程命名规范：**《课程名-教师名》。例：《统计软件-黄达》  
+[其他文件/文件夹命名规范](https://ndro4zkb6p.feishu.cn/docx/HKoKdBDyKow62AxO48qc5bOWnHM?contentTheme=DARK&theme=DARK#part-YbmzdmFucoS4IrxLcivcG8Ktndf)  
 
 ## 写在最前面，极其重要：
 <u> **当上传非公开的、不来源于自己的劳动成果时，务必争得他人同意！！** </u>  
