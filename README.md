@@ -1,5 +1,6 @@
 # FDSMguide-Course_Competition
-TO DO: 贡献清楚一个课程；**学会如何用Git在线管理文件目录**
+TO DO: 贡献清楚一个课程；**学会如何用Git在线管理文件目录**  
+[如何贡献本项目](https://ndro4zkb6p.feishu.cn/docx/FXkgd6OyOoUXK1xn57Pccx0Vn4b?from=from_copylink)  
 
 **复旦管院课程指南、比赛经验一览。致力于让每个管院学子的学习、备赛都更高效、更公平。**  
 **官方邮箱：** fdsm_courseguide@163.com  
