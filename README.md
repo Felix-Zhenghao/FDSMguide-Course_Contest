@@ -20,7 +20,9 @@ TO DO: 贡献清楚一个课程；**学会如何用Git在线管理文件目录**
 
 [其他文件/文件夹命名规范](https://ndro4zkb6p.feishu.cn/docx/HKoKdBDyKow62AxO48qc5bOWnHM?contentTheme=DARK&theme=DARK#part-YbmzdmFucoS4IrxLcivcG8Ktndf)  
   
-若嫌麻烦，也可发将内容送至邮箱：fdsm_courseguide@163.com
+若嫌麻烦，也可发将内容送至邮箱：fdsm_courseguide@163.com  
+
+若存在不合适的材料，请在项目的Issue模块指出，会尽快处理。  
 
 ## 如何贡献
 **贡献方式图文教程：**  [如何贡献本项目](https://ndro4zkb6p.feishu.cn/docx/FXkgd6OyOoUXK1xn57Pccx0Vn4b?from=from_copylink)
