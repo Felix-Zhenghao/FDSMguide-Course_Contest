@@ -1,5 +1,7 @@
 # FDSMguide-Course_Competition
-![项目Logo](https://i.postimg.cc/DZsKj6tD/fdsm-guide-logo.png)  
+<div align="center">
+  <img src="https://i.postimg.cc/DZsKj6tD/fdsm-guide-logo.png" width="" />
+</div>  
 
 [**如何贡献本项目**](https://ndro4zkb6p.feishu.cn/docx/FXkgd6OyOoUXK1xn57Pccx0Vn4b?from=from_copylink)  
 
