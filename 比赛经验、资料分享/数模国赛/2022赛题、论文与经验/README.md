@@ -1,3 +1,6 @@
+## 2022国赛官方评阅要点（强烈建议初步做过题后看）
+https://mp.weixin.qq.com/s/yLkFLph4Uc3utxsKWwJ1_w
+
 ## 贡献名单
 ### 参赛论文样本
 #### A题
