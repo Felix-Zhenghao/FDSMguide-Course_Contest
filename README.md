@@ -1,4 +1,4 @@
-# FDSMguide-Course_Competition
+# FDSMguide-Course_Contest
 <div align="center">
   <img src="https://i.postimg.cc/DZsKj6tD/fdsm-guide-logo.png" width="200" />
 </div>  
